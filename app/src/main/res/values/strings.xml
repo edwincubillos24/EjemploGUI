@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploGUI</string>
+    <string name="titulo">Suma</string>
+    <string name="n1">Numero 1</string>
+    <string name="n2">Numero 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="total">Total</string>
+</resources>

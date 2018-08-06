@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Agenda">Agenda</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Password</string>
+    <string name="repassword">Repita Password</string>
+    <string name="guardar">Guardar</string>
+    <string name="data">Data</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="ps4">ps4</string>
+    <string name="futbol">Futbol</string>
+    <string name="dormir">Dormir</string>
+</resources>

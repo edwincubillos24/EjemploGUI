@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+<!-- ScrollView-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/notas"
+        android:textSize="25sp"
+        android:gravity="center_horizontal"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eQuices"
+        android:inputType="numberDecimal"
+        android:hint="@string/quices"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eLabs"
+        android:inputType="numberDecimal"
+        android:hint="@string/labs"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eExpo"
+        android:inputType="numberDecimal"
+        android:hint="@string/expo"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/eP1"
+        android:inputType="numberDecimal"
+        android:hint="@string/proyecto1"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ePf"
+        android:inputType="numberDecimal"
+        android:hint="@string/proyectoFinal"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calcular"
+        android:textAllCaps="false"
+        android:id="@+id/bCalcular"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tNotaFinal"
+        android:text="@string/notaFinal"
+        android:textSize="25sp"/>
+
+
+</LinearLayout>

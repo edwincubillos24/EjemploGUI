@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="notas">Notas</string>
+    <string name="quices">Quices (20%)</string>
+    <string name="labs">Laboratorio (30%)</string>
+    <string name="expo">Exposicion (10%)</string>
+    <string name="proyecto1">Proyecto 1 (15%)</string>
+    <string name="proyectoFinal">Proyecto final (25%)</string>
+    <string name="calcular">Calcular nota</string>
+    <string name="notaFinal">Nota final</string>
+</resources>
